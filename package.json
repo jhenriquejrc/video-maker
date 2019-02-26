@@ -1,0 +1,23 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Aplicação para automação na criação de videos para youtube. https://youtu.be/kjhu1LEmRpY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhenriquejrc/video-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhenriquejrc/video-maker/issues"
+  },
+  "homepage": "https://github.com/jhenriquejrc/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
